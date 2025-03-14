@@ -1,7 +1,7 @@
 ## Olá!! Bem-vindo ao meu perfil! 😎
 
 - 🔭 Atualmente trabalho como Engenheiro de Dados
-- 🌱 Sempre estudando sobre dados, e venho aprendendo back-end com Python 😁
+- 🌱 Sempre estudando sobre dados, e venho aprendendo web back-end com Python 😁
 - 🔧 Tecnologias: Python, Pyspark, SQL, Big Data
 - 🎓 Cursando Tecnólogo em Banco de Dados
 - 📫 Contate-me no email: thalles11rodri@gmail.com
